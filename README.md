@@ -148,9 +148,6 @@ If you love `Audix`, show your support by giving us a star (⭐) on GitHub!
 
 ---
 
-Crafted with ❤️ by [Your Name](https://github.com/peymanprd)  
+Crafted with ❤️ by [Peyman Pirzadeh](https://github.com/peymanprd)  
 **Audix** - Audio management for the web, made simple and powerful! 🎧
 
----
-
-This README is designed to make your project stand out and provide all the necessary information for users and contributors. Let me know if you need further tweaks! 😊
